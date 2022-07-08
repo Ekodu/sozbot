@@ -64,7 +64,7 @@ async def buldu(c:Client, m:Message):
 🔎 İpucu: 1. {oyun[m.chat.id]["kelime"][0]}
 ✍🏻 Uzunluk : {int(len(kelime_list)/2)} 
 
-✏️QKarışık hərflərdən doğru kelimeyi bulun
+✏️QKarışık hərflərdən doğru sözü tapın
                         """
                 await c.send_message(m.chat.id, text)
     except KeyError:
