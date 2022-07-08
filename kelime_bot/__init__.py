@@ -18,7 +18,7 @@ LOGGER = logging.getLogger(__name__)
 API_ID = "6910308"
 API_HASH = "b78609ecfc57b015892d20ae38036a27"
 TOKEN = "5486647519:AAGRBF-sCXe-L98NkmpC61pwHSChbnDqjuc"
-USERNAME = "https://t.me/BakuGameSoz_Bot"
+USERNAME = "1327110456"
 
 
 
