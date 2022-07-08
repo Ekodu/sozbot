@@ -35,7 +35,7 @@ kelimeler = ["gözəl", "məlumat", "problem", "təmin etmək", "buraxmaq", "vax
              'xanım', 'xidmət', 'ehtiyac', 'nöqtə', 'istiqamət', 'bəli', 'oyun', 'artırma', 'yenidən yükləmə', 'proses', 'qısa', 'asan',
              'hansı', 'qiymət', 'əslində', 'qəbul edirəm', 'orada', 'diqqət', 'uzaq', 'kompüter', 'gələcək', 'görünür',
              'məsələn', 'oğul', 'dinlə' , 'uyğun', 'lirə', 'istehsal' 'dəqiqə' 'unut' 'gəzinti' 'belə' 'pis',
-             'avtomobil', 'ağız', 'hiss et', 'tətbiq et', 'hələ', 'nümunə', 'çox'' , 'saat' , 'dərəcə' , 'mümkün' , 'belə',
+             'avtomobil', 'ağız', 'hiss et', 'tətbiq et', 'hələ', 'nümunə', 'çox'' , 'saat','dərəcə','mümkün','belə',
              'divar', 'on', 'incəsənət', 'əsas', 'xəstəlik', 'tələbə', 'televiziya', 'metod', 'masa', 'ölüm', 'komanda', 'üst',
              'baş', 'musiqi', 'ayrılmaq', 'enerji', 'universitet', 'idman', 'mehriban', 'ruh', 'baxmayaraq', 'hissə', 'ölüm',
              'daimi', 'sağlamlıq', 'müxtəlif', 'bundan', 'hiss', 'halbuki', 'səhər', 'internet', 'texniki', 'çıxış',
